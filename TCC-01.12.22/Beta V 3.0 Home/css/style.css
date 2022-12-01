@@ -62,7 +62,6 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 20px  0;
-    text-decoration: none;
     
 }
 
@@ -293,7 +292,7 @@ main .container{
 }
 .casa .casa-text p{
     margin: 20px 0;
-    color: white;
+    color: black;
 }
 
 .casa .casa-text p b{
